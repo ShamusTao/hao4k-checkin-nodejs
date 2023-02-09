@@ -24,7 +24,7 @@ const barkServer = process.env["BARKSERVER"]
 
 //配置需要打开的服务信息,hao4k 和 4ksj，未配置只对hao4k
 const needCheckHost = process.env["CHECKHOST"]
-
+hao4k,4ksj
 // 填入Hao4k账号对应cookie
 let cookie = process.env["COOKIE"];
 
